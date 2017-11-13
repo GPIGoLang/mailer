@@ -2,13 +2,13 @@ package mailer
 
 const (
 	// HOST constant
-	HOST = "vps28383.inmotionhosting.com"
+	HOST = ""
 	// PORT constant
-	PORT = "465"
+	PORT = ""
 	// FROM constant
-	FROM = "noreply@mipad.my-gpi.org"
+	FROM = ""
 	// PASSWORD constant
-	PASSWORD = "gPIInoReply{)}(!@"
+	PASSWORD = ""
 	// SERVERNAME constant
 	SERVERNAME = HOST + ":" + PORT
 )
